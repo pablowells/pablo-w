@@ -15,7 +15,7 @@ Much like the person reading this, I began coding with this line of code:
 '''
 print("Hello, World!)
 '''
-I first began coding in the summer leading to my senior year of highschool using a book called [*Automating the boring stuff with Python*] (https://automatetheboringstuff.com/). The book is available for free online and I recommend it. 
+I first began coding in the summer leading to my senior year of highschool using a book called [*Automating the boring stuff with Python*](https://automatetheboringstuff.com/). The book is available for free online and I recommend it. 
 
 Since then, I've taken beginner classes in Java and C++ at Mesa College, as well as intermediate Java and Data Structures in C++. 
 
