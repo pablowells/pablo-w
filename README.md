@@ -1,2 +1,2 @@
 # pablo-w
-GitHub Pages Project for CSE 110
+Pablo Well's User page
